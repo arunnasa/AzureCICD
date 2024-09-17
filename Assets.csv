@@ -1,5 +1,5 @@
-name,type,value, description 
-asset_1_name,text,asset_value, 
-asset_2_name,integer,123,
-asset_3_name,boolean,false, this is an asset description 
-asset_4_name,credential,"username::password",
+name,type,value
+asset_1_name,text,asset_value
+asset_2_name,integer,123
+asset_3_name,boolean,FALSE
+asset_4_name,credential,username::password
