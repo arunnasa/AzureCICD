@@ -1,5 +1,0 @@
-﻿,,,,
-asset_1_name,text,asset_value,this is an test description # we can have comments,
-3,asset_2_name,integer,1234,
-4,asset_3_name,boolean,FALSE,
-5,asset_4_name,credential,username::password,
